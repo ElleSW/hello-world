@@ -1,4 +1,5 @@
 # hello-world
-to understand how to use github *delete and change starts here*  more efficiently
+to understand how to use github better *and more efficiently*
 
-edit: some other changes
+edit: these are changes for this edit file *and some other changes*
+
